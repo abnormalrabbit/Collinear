@@ -1,0 +1,2 @@
+# Collinear
+ collinear points 
